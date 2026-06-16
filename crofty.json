@@ -1,0 +1,25 @@
+{
+    "version": "0.7.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.7.1/crofty_0.7.1_windows_amd64.zip",
+            "bin": [
+                "crofty.exe"
+            ],
+            "hash": "ba825d0cfe463246fd0223b12b0f35b3b0b3fa5714e0e81189a41c8957e10b19"
+        },
+        "arm64": {
+            "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.7.1/crofty_0.7.1_windows_arm64.zip",
+            "bin": [
+                "crofty.exe"
+            ],
+            "hash": "29c9fdffb8709c252eb3eb7c35479866c3fe0decd23468343826aa3d6258dbf8"
+        }
+    },
+    "homepage": "https://crofty.site",
+    "license": "AGPL-3.0-or-later",
+    "description": "Own your website: a Markdown-to-published-site pipeline",
+    "depends": [
+        "main/hugo-extended"
+    ]
+}
