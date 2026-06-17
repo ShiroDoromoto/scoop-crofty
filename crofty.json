@@ -1,19 +1,19 @@
 {
-    "version": "0.10.1",
+    "version": "0.10.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.10.1/crofty_0.10.1_windows_amd64.zip",
+            "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.10.2/crofty_0.10.2_windows_amd64.zip",
             "bin": [
                 "crofty.exe"
             ],
-            "hash": "00f4641135f34bb1cb3f1aa4bd64da63e32987143803430a7e2306994a6f7561"
+            "hash": "3da27de9f815ed0ee6e5debdb1bff9899ab9e0b092ed7d6ca4e0dacb3f3a829f"
         },
         "arm64": {
-            "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.10.1/crofty_0.10.1_windows_arm64.zip",
+            "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.10.2/crofty_0.10.2_windows_arm64.zip",
             "bin": [
                 "crofty.exe"
             ],
-            "hash": "ab78e483abdcb57bc5d18ef46d511196c1834a590d931d2a822eb745549e2273"
+            "hash": "e14edec7186680d329cd916051f916bc3200c06e1de9d9e2d01a789a11be4941"
         }
     },
     "homepage": "https://crofty.site",
