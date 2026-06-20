@@ -1,5 +1,5 @@
 {
-  "version": "0.14.0",
+  "version": "0.15.0",
   "homepage": "https://github.com/ShiroDoromoto/crofty",
   "license": "AGPL-3.0",
   "depends": [
@@ -7,13 +7,13 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.14.0/crofty_0.14.0_windows_amd64.zip",
-      "hash": "c5967105fa3523070678f136a21274228c2e0b9b1f35adeb50f8d68f268e35d6",
+      "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.15.0/crofty_0.15.0_windows_amd64.zip",
+      "hash": "a9550d9713ee79793265b7478e91bf8510374b8ffb3cca5e2582abe28fe05960",
       "bin": "crofty.exe"
     },
     "arm64": {
-      "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.14.0/crofty_0.14.0_windows_arm64.zip",
-      "hash": "fda0e7b8cac448406458269309a348ea6e8169b17b1e2257cbc768ba8b000ccf",
+      "url": "https://github.com/ShiroDoromoto/crofty/releases/download/v0.15.0/crofty_0.15.0_windows_arm64.zip",
+      "hash": "a22d7c1fe64b8b38e914921bb530ed7ec5093fc7dabde36ff58afbf6b6006e23",
       "bin": "crofty.exe"
     }
   },
